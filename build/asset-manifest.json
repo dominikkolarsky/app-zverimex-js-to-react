@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/app-zverimex-js-to-react/static/css/main.4792a309.css",
+    "main.js": "/app-zverimex-js-to-react/static/js/main.a5311ca7.js",
+    "static/js/787.e68c998d.chunk.js": "/app-zverimex-js-to-react/static/js/787.e68c998d.chunk.js",
+    "index.html": "/app-zverimex-js-to-react/index.html",
+    "main.4792a309.css.map": "/app-zverimex-js-to-react/static/css/main.4792a309.css.map",
+    "main.a5311ca7.js.map": "/app-zverimex-js-to-react/static/js/main.a5311ca7.js.map",
+    "787.e68c998d.chunk.js.map": "/app-zverimex-js-to-react/static/js/787.e68c998d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4792a309.css",
+    "static/js/main.a5311ca7.js"
+  ]
+}
