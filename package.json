@@ -1,7 +1,7 @@
 {
   "name": "usereducer",
   "version": "0.1.0",
-  "homepage": "https://dominikkolarsky.github.io/app-zverimex-js-to-react",
+  "homepage": "https://dominikkolarsky.github.io/app-zverimex-react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
